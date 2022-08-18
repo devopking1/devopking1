@@ -1,0 +1,2 @@
+# What is git?
+# git is version control software, that tracks changes across multiple versions of a project.
